@@ -33,9 +33,9 @@ public class NameViewHolder extends RecyclerView.ViewHolder {
         super(itemView);
 
 
+        deleteBut = itemView.findViewById(R.id.delete_note_but);
         headLine = itemView.findViewById(R.id.note_headline);
         body = itemView.findViewById(R.id.note_body);
-        deleteBut = itemView.findViewById(R.id.delete_note_but);
     }
 
     public Activity getActivity(View v) {
