@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Tap</string>
+    <string name="sign_in">войти в аккаунт</string>
+    <string name="check_in">зарегистрироваться</string>
+    <string name="field_hint_1">введите пароль...</string>
+    <string name="field_hint">введите почту...</string>
+    <string name="password">Пароль</string>
+    <string name="email">Почта</string>
+    <string name="email_verification">Письмо с подтверждением было выслано на вашу почту, перейдите по ссылке в письме, чтобы подтвердить свой Emai, и нажмите \"продолжить\"</string>
+    <string name="email_verification1">Необходимо подтвердить вашу почту"</string>
+    <string name="cont">Продолжить</string>
+    <string name="back">Вернуться к регистрации</string>
+    <string name="loading">Загрузка...</string>
+    <string name="do_it">сделать это сейчас</string>
+    <string name="back_1">назад</string>
+    <string name="password_main_hint">*пароль должен содержать не менее шести символов</string>
+    <string name="tap_me">нажми на меня</string>
+    <string name="thx">спасибо</string>
+    <string name="important">Важное</string>
+    <string name="new_note">Новое напоминание</string>
+    <string name="item_head_hint">Название...</string>
+    <string name="item_body_hint">Чуть подробнее...</string>
+</resources>
