@@ -22,14 +22,14 @@ import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.database.FirebaseDatabase;
 
-public class NameViewHolder extends RecyclerView.ViewHolder {
+public class NoteViewHolder extends RecyclerView.ViewHolder {
 
     private TextView headLine;
     private TextView body;
     private ImageButton deleteBut;
     private FirebaseAuth mAuth;
 
-    public NameViewHolder(@NonNull View itemView) {
+    public NoteViewHolder(@NonNull View itemView) {
         super(itemView);
 
 

@@ -17,7 +17,8 @@
     <string name="tap_me">нажми на меня</string>
     <string name="thx">спасибо</string>
     <string name="important">Важное</string>
-    <string name="new_note">Новое напоминание</string>
+    <string name="new_note">Новая заметка</string>
     <string name="item_head_hint">Название...</string>
     <string name="item_body_hint">Чуть подробнее...</string>
+    <string name="recover_the_password">восстановить пароль</string>
 </resources>
