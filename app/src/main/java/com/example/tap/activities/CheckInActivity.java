@@ -223,7 +223,7 @@ public class CheckInActivity extends Activity implements View.OnClickListener {
     @Override
     public void onClick(View v) {
         if (!isOnline()) {
-            Toast.makeText(CheckInActivity.this, "Проверьте подключение к интернету",
+            Toast.makeText(CheckInActivity.this, "Отсутствует подключение к Интернету",
                     Toast.LENGTH_SHORT).show();
         } else {
             switch (v.getId()) {
