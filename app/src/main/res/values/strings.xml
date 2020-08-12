@@ -6,7 +6,8 @@
     <string name="field_hint">введите почту...</string>
     <string name="password">Пароль</string>
     <string name="email">Почта</string>
-    <string name="email_verification">Письмо с подтверждением было выслано на вашу почту, перейдите по ссылке в письме, чтобы подтвердить свой Emai, и нажмите \"Завершить регистрацию\"</string>
+    <string name="email_verification">Письмо с подтверждением было выслано на вашу почту, перейдите по ссылке
+        в письме и нажмите\n \"Завершить регистрацию\"</string>
     <string name="email_verification1">Необходимо подтвердить вашу почту"</string>
     <string name="cont">Завершить регистрацию</string>
     <string name="back">Вернуться к регистрации</string>
